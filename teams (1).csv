@@ -1,0 +1,38 @@
+team_name,team_id,conference,division
+Arizona Cardinals,1,NFC,West
+Atlanta Falcons,2,NFC,South
+Baltimore Ravens,3,AFC,North
+Buffalo Bills,4,AFC,East
+Carolina Panthers,5,NFC,South
+Chicago Bears,6,NFC,North
+Cincinnati Bengals,7,AFC,North
+Cleveland Browns,8,AFC,North
+Dallas Cowboys,9,NFC,East
+Denver Broncos,10,AFC,West
+Detroit Lions,11,NFC,North
+Green Bay Packers,12,NFC,North
+Houston Texans,13,AFC,South
+Indianapolis Colts,14,AFC,South
+Jacksonville Jaguars,15,AFC,South
+Kansas City Chiefs,16,AFC,West
+Las Vegas Raiders,17,AFC,West
+Los Angeles Chargers,18,AFC,West
+Los Angeles Rams,19,NFC,West
+Miami Dolphins,20,AFC,East
+Minnesota Vikings,21,NFC,North
+New England Patriots,22,AFC,East
+New Orleans Saints,23,NFC,South
+New York Giants,24,NFC,East
+New York Jets,25,AFC,East
+Oakland Raiders,26,AFC,West
+Philadelphia Eagles,27,NFC,East
+Pittsburgh Steelers,28,AFC,North
+San Diego Chargers,29,AFC,West
+San Francisco 49ers,30,NFC,West
+Seattle Seahawks,31,NFC,West
+St. Louis Rams,32,NFC,West
+Tampa Bay Buccaneers,33,NFC,South
+Tennessee Titans,34,AFC,South
+Washington,35,NFC,East
+Washington Commanders,36,NFC,East
+Washington Redskins,37,NFC,East
